@@ -1,18 +1,16 @@
-header {}  
-<style>
-{background-color:lightblue;}
-{color:black;}
-{text-align: start;
+header {  
+background-color:lightblue;
+color:black;
+text-align: start;
+text-align:end; 
+color: black; 
 } 
-{text-align:end;
-} 
-{color: black;
-}
-</style>
-} 
-body { 
-} 
-nav {
+body {
+background-color: lightgoldenrodyellow;
+color: black} 
+v:link {color: rebeccapurple}
+a:link {background-color: yellow;}
+nav { display: block; color: black; border: dotted; 
 } 
 h1 {
 } 
