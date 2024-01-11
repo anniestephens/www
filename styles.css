@@ -6,11 +6,10 @@ text-align:end;
 color: black; 
 } 
 body {
-background-color: lightgray;
-color: black} 
+color: black; } 
 v:link {color: rebeccapurple}
 nav { display: block; color: black; border: dotted; } 
-h1 {
+h1 { color:black; 
 } 
 h2 { 
 } 
